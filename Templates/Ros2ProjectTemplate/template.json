@@ -423,6 +423,10 @@
             "isTemplated": false
         },
         {
+            "file": "autoexec.cfg",
+            "isTemplated": false
+        },
+        {
             "file": "preview.png",
             "isTemplated": false
         },
